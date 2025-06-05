@@ -14,11 +14,10 @@ Dive headfirst into a looping world of pulse-pounding combat, eerie encounters, 
 
 ## 🕹️ Features
 
-- 🚀 **High-speed, skill-based ship combat**
-- 🌌 **Procedurally generated levels**
-- 🛠️ **Extensive ship customization**
-- 🎶 **Dynamic, reactive synthwave soundtrack**
-- 🐙 **Strange cosmic horrors lurking in the void**
+- 🚀 **High-speed, skill-based combat**
+- 🛠️ **Unfinished Story Line**
+- 🎶 **Custom Soundtrack from across the globe.**
+- 🐙 **Strange, fleshy horrors lurking in the void**
 
 ---
 
