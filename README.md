@@ -1,6 +1,6 @@
-# 🎮 Project Name: *VOIDRUNNER*
+# Doomy McSlayface
 
-![Voidrunner Banner](https://via.placeholder.com/1200x300.png?text=Game+Banner+Here)
+![Voidrunner Banner](https://i.imgur.com/YziWVVx.png)
 
 ---
 
